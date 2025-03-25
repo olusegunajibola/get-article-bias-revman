@@ -1,0 +1,94 @@
+Bias Classification Results
+==================================================
+
+Random sequence generation (selection bias):
+  Classification: Low risk of bias
+  Support: The study employs a national cohort design with a large sample size (over 45 million individuals), reducing selection bias. It uses national databases for vaccination and hospital admissions, ensuring comprehensive data collection. Adjustment for variables like age, gender, and comorbidities further minimizes selection bias, indicating a low risk of bias.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide sufficient details about the random sequence generation or selection process to determine the risk of selection bias. While exclusion criteria are mentioned, the specifics of how participants were selected or randomized are not detailed, making it unclear if there's a high risk of bias.
+
+  Classification: High risk of bias
+  Support: The text does not provide explicit details on how participants were randomly assigned to groups or if random sequence generation was used. The study's reliance on record linkage without verification of diagnoses and lack of control for potential confounders like healthcare-seeking behavior increases the risk of selection bias. The absence of randomization methods and incomplete data collection further support a high risk of bias.
+
+  Classification: High risk of bias
+  Support: The text acknowledges several limitations in the study design, including not adjusting for multiple testing, not adjusting for a wider range of comorbidities, and the potential for bias in the control period due to the event influencing vaccination likelihood. These factors indicate a high risk of selection bias.
+
+Allocation concealment (selection bias):
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text describes a study with transparent methods, including predefined exclusion criteria, use of validated NHS numbers for data linkage, and statistical controls. These measures minimize selection bias, indicating low risk.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide sufficient information about the allocation process or measures taken to prevent selection bias, making it unclear whether there was proper allocation concealment. Without details on how participants were assigned, the risk of selection bias cannot be determined.
+
+  Classification: N/A
+  Support: N/A
+
+Blinding of participants and personnel (performance bias):
+  Classification: Low risk of bias
+  Support: The study is a retrospective cohort analysis that uses existing data from national immunisation and hospital admissions datasets. Since it is an observational study and not an interventional trial, blinding of participants and personnel is not applicable. Therefore, there is a low risk of bias related to blinding.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide information about whether participants and personnel were blinded to the vaccine allocation. Without details on blinding, it is unclear how performance bias was controlled, making the risk of bias unclear.
+
+  Classification: High risk of bias
+  Support: The study lacks explicit measures to blind participants and personnel, which is common in observational designs. This absence increases performance bias risk, as participants and personnel may influence outcomes based on known vaccine assignments.
+
+  Classification: N/A
+  Support: N/A
+
+Blinding of outcome assessment (detection bias):
+  Classification: High risk of bias
+  Support: The study does not mention whether the outcome assessors were blinded to the participants' vaccination status. The use of ICD-10 codes from hospital records suggests that coders may have known the patients' vaccination status, potentially introducing detection bias. Without blinding, the risk of bias in outcome assessment is high.
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Unclear risk of bias
+  Support: The text does not explicitly state whether the outcome assessment was blinded to vaccination status, making it unclear if detection bias was controlled.
+
+  Classification: N/A
+  Support: N/A
+
+Incomplete outcome data (attrition bias):
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text acknowledges potential attrition bias due to incomplete data but notes that 96% of the data was complete at extraction, with only 4% potentially missing. The study considers this a minor limitation, as the incomplete data pertains to the last three weeks and does not significantly affect the main risk periods. Thus, the risk of bias is low.
+
+  Classification: Unclear risk of bias
+  Support: The text does not explicitly discuss the handling of incomplete outcome data or attrition bias. While it acknowledges limitations such as the inability to verify diagnoses and potential misclassification, it does not provide sufficient information about participant dropout rates or how missing data were addressed. Therefore, the risk of attrition bias is unclear.
+
+  Classification: High risk of bias
+  Support: The text describes multiple limitations that increase the risk of attrition bias. The study acknowledges incomplete data, such as missing platelet counts and cases treated in primary care, and notes that some conditions were added later, potentially biasing results. Additionally, the inability to adjust for all confounders and the reliance on severe cases only further contribute to high risk of bias.
+
+Selective reporting (reporting bias):
+  Classification: Low risk of bias
+  Support: The text provides a detailed and balanced analysis of the risk of venous thrombotic events and thrombocytopenia following COVID-19 vaccination. The study uses a large national cohort, adjusts for confounders, and explicitly states limitations and the need for further research. There is no evidence of selective reporting or omission of critical data.
+
+  Classification: Low risk of bias
+  Support: The text provides a detailed and transparent description of the study's methodology, including exclusion criteria, data linkage, and statistical analyses. There is no indication of selective omission of data or outcomes, as the study reports all relevant information and adheres to predefined protocols.
+
+  Classification: Low risk of bias
+  Support: The text presents detailed statistical data and relative incidence (RI) estimates for various outcomes (e.g., cerebral venous thrombosis, other venous thrombosis, thrombocytopenia) following vaccination with the AstraZeneca (AZ) and Pfizer-BioNTech (PF) vaccines. The data are presented in a structured manner, and the study acknowledges limitations, such as the inability to verify discharge diagnoses and the potential for ascertainment bias. The text does not appear to selectively report outcomes or omit data that could challenge the findings. Instead, it provides a comprehensive presentation of the results, including confidence intervals and p-values, which supports the transparency of the reporting.
+
+  Classification: Low risk of bias
+  Support: The text presents a balanced analysis by discussing both the increased risks of thrombotic events after the ChAdOx1 vaccine and the lack of evidence in other studies, such as the mRNA vaccine study. The authors transparently address methodological limitations, including healthy vaccinee effects and data exclusions, which mitigates the risk of selective reporting. This comprehensive approach supports a low risk of bias classification.
+
+Other bias:
+  Classification: N/A
+  Support: N/A
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Unclear risk of bias
+  Support: The text presents a study with detailed statistical analyses and acknowledges limitations such as reliance on ICD-10 coding and potential ascertainment bias due to increased awareness of vaccine-related thrombotic events. While there are potential sources of other bias, the study's design and transparency in discussing limitations make the risk of bias unclear.
+
+  Classification: N/A
+  Support: N/A
+

@@ -1,0 +1,136 @@
+Bias Classification Results
+==================================================
+
+Random sequence generation (selection bias):
+  Classification: Low risk of bias
+  Support: The text describes the use of randomised controlled trials with participants randomly assigned in a 1:1 ratio to either the vaccine or control group. This randomisation process helps mitigate selection bias. The inclusion of multiple countries (UK, Brazil, South Africa) and a large sample size (23,848 participants) further supports the generalisability and reduces the risk of bias. The trials were also blinded, which adds to the reliability of the results.
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text describes measures such as masking of trial staff and participants, which reduces selection bias. The pre-specified analysis plan and clear inclusion/exclusion criteria further support a low risk of bias.
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Unclear risk of bias
+  Support: The text indicates that participants were randomly assigned to study arms, but it does not provide sufficient details about the random sequence generation process, such as whether it was adequately concealed or if stratification was used. Without this information, it is unclear if there was a low or high risk of selection bias.
+
+  Classification: High risk of bias
+  Support: The text acknowledges potential selection bias due to the recruitment of participants, particularly healthcare workers in the UK, which may not represent the broader population. Additionally, the delayed recruitment of older age groups and the focus on younger adults could limit the generalizability of the study, indicating a high risk of bias.
+
+Allocation concealment (selection bias):
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text describes the allocation process as randomized 1:1 with randomisation lists prepared by a study statistician using block randomisation, stratified by study site and group, and uploaded into a secure web platform. This indicates adequate allocation concealment, minimizing selection bias.
+
+  Classification: Low risk of bias
+  Support: The text describes measures to ensure allocation concealment, such as trial staff being masked to group allocation and vaccines being prepared out of sight of participants. These steps help prevent selection bias by ensuring neither participants nor staff could influence assignment based on prior knowledge.
+
+  Classification: Unclear risk of bias
+  Support: The text describes random allocation of participants to vaccine or control groups, which is good for reducing selection bias. However, it does not provide explicit details on how allocation was concealed. Without knowing if allocation concealment was implemented, the risk of selection bias remains unclear.
+
+  Classification: Unclear risk of bias
+  Support: The text describes the study as a randomized, double-blind, controlled trial, which suggests measures to reduce selection bias. However, it does not provide specific details about the allocation concealment method used. Without explicit information on how allocation was concealed, the risk of selection bias cannot be definitively assessed, leading to an unclear classification.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide explicit information about the allocation concealment process, which is crucial for assessing selection bias. While the study mentions diverse recruitment and subgroup analyses, the lack of details on how participants were allocated to study groups makes it unclear whether selection bias was adequately controlled.
+
+Blinding of participants and personnel (performance bias):
+  Classification: Unclear risk of bias
+  Support: The study involves a mix of single-blind and double-blind trials, which complicates the assessment of performance bias. While blinding is present, the partial single-blinding across three studies introduces uncertainty about the extent of bias, as it's unclear whether participants or personnel could have influenced the outcomes. Additionally, the text doesn't provide detailed information on how blinding was maintained, leaving the risk of bias unclear.
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Unclear risk of bias
+  Support: The text describes that trial staff were masked to group allocation and that measures were taken to blind participants, such as administering vaccines out of sight and covering syringes. However, the unblinding of trial staff and the lack of clear information on participant blinding create uncertainty about the extent of performance bias. This makes the risk of bias unclear.
+
+  Classification: Unclear risk of bias
+  Support: The text does not explicitly mention whether participants and personnel were blinded to the treatment, making it unclear whether performance bias was adequately controlled.
+
+  Classification: Unclear risk of bias
+  Support: The text does not explicitly describe whether participants and personnel were blinded, which is crucial for assessing performance bias. While it mentions that participants remained masked to group allocation, there is no detailed information on the blinding process or potential breaches, making the risk of bias unclear.
+
+  Classification: Unclear risk of bias
+  Support: The text does not explicitly discuss whether participants and personnel were blinded. Without this information, it is unclear if performance bias was controlled, making the risk of bias unclear.
+
+Blinding of outcome assessment (detection bias):
+  Classification: Low
+  Support: The studies were described as 'blinded, randomised, controlled trials,' indicating that outcome assessors were unaware of participants' treatment assignments, which reduces detection bias.
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text describes measures to mask trial staff and participants, as well as the use of an independent masked endpoint review committee. These steps effectively reduce detection bias, indicating a low risk of bias.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide information regarding whether the outcome assessors were blinded to the treatment group. The absence of details about blinding makes it impossible to determine the presence of detection bias, resulting in an unclear risk of bias.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide explicit information about whether the outcome assessors were blinded to the participants' group allocations. Without this information, it is unclear whether detection bias could have influenced the results.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide explicit information on whether the outcome assessment was blinded. The study includes self-swabbing by participants, which could introduce detection bias if participants were aware of their vaccination status. However, without details on blinding of assessors, the risk of bias remains unclear.
+
+Incomplete outcome data (attrition bias):
+  Classification: Unclear risk of bias
+  Support: The text does not provide specific information about the handling of incomplete outcome data or attrition rates, making it unclear if there is a risk of bias related to attrition. The interim nature of the analysis and the lack of detailed attrition handling contribute to this uncertainty.
+
+  Classification: Unclear risk of bias
+  Support: The text does not provide explicit information about the handling of incomplete outcome data or attrition bias. While the study mentions various protocol amendments and statistical analysis plans, it does not discuss whether there was attrition, how it was managed, or whether it could have introduced bias into the results. Therefore, the risk of bias related to incomplete outcome data is unclear.
+
+  Classification: Low risk of bias
+  Support: The text describes a well-structured study with measures to minimize attrition bias, such as masked review committees, active follow-up, and comprehensive data collection from external sources. These factors support a low risk of bias due to incomplete outcome data.
+
+  Classification: Low risk of bias
+  Support: The text provides detailed information about the inclusion criteria, handling of dropouts, and sensitivity analyses, indicating that attrition bias was effectively managed.
+
+  Classification: Low risk of bias
+  Support: The text does not mention any issues with incomplete outcome data or participant attrition. All participants were followed up adequately, and no dropouts were noted, indicating low risk of attrition bias.
+
+  Classification: Low risk of bias
+  Support: The text acknowledges limitations in the data, particularly regarding older adults and the duration of protection, but is transparent about these issues and plans for future analyses. This transparency reduces the risk of bias.
+
+Selective reporting (reporting bias):
+  Classification: N/A
+  Support: N/A
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text provides comprehensive details about the trial's design, masking procedures, data collection, and analysis methods. It also transparently reports on the inclusion and exclusion criteria, as well as the reasons for excluding certain studies from the efficacy analysis. The thoroughness of the reporting and the acknowledgment of limitations indicate low risk of selective reporting bias.
+
+  Classification: Low risk of bias
+  Support: The text provides comprehensive details about the study design, inclusion criteria, participant demographics, and results. It includes subgroup analyses and sensitivity checks, and there is no indication of omitted data that would negatively impact the findings. The transparency in funding and author contributions further reduces the risk of reporting bias.
+
+  Classification: Low risk of bias
+  Support: The text provides comprehensive details on adverse events, efficacy rates, and includes data from multiple trials. It addresses potential concerns and discusses the analysis methods transparently, indicating no selective omission of data.
+
+  Classification: N/A
+  Support: N/A
+
+Other bias:
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text describes a detailed and transparent study design, including randomization, control groups, and statistical analysis plans, which reduces the risk of bias. The involvement of multiple study sites and diverse populations, along with regulatory oversight, further supports the low risk of bias.
+
+  Classification: N/A
+  Support: N/A
+
+  Classification: Low risk of bias
+  Support: The text describes a clinical trial with transparent methodology, including subgroup analyses and sensitivity checks, which reduces the risk of other biases.
+
+  Classification: Low risk of bias
+  Support: The text presents data on adverse events and efficacy in a balanced manner, acknowledging potential biases and limitations. It includes subgroup analyses and addresses concerns raised by regulators, indicating a low risk of other biases.
+
+  Classification: N/A
+  Support: N/A
+
